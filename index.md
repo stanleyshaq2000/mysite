@@ -4,9 +4,9 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# SC
 
-A Nintendo Character
+Software Developer
 
 - - -
 
